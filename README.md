@@ -1,13 +1,13 @@
-# Frontend Development [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+1. # Frontend Development [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-**Manually curated collection of resources for frontend web developers.**
+2. **Manually curated collection of resources for frontend web developers.**
 
-You are viewing a browseable version, split by category in many small files. There is also a really huge file with every single resource on one page. Proceed to the [totally gigantic file](TOTALLY-GIGANTIC-FILE.md) if you are into this kind of thing.
+3. You are viewing a browseable version, split by category in many small files. There is also a really huge file with every single resource on one page. Proceed to the [totally gigantic file](TOTALLY-GIGANTIC-FILE.md) if you are into this kind of thing.
 
-This is the current version, which receives ongoing updates. If you want the good old bookmarks, please use the tag v.1.0. Keep in mind, that the old version has many outdated links.
+4. This is the current version, which receives ongoing updates. If you want the good old bookmarks, please use the tag v.1.0. Keep in mind, that the old version has many outdated links.
 
-[![frontend.directory](https://img.shields.io/badge/frontend-directory-blue.svg?style=flat-square)](http://frontend.directory/)
-[![Gitter](https://img.shields.io/gitter/room/dypsilon/frontend-dev-bookmarks.svg?style=flat-square&maxAge=2592000)](https://gitter.im/dypsilon/frontend-dev-bookmarks)
+5. [![frontend.directory](https://img.shields.io/badge/frontend-directory-blue.svg?style=flat-square)](http://frontend.directory/)
+6. [![Gitter](https://img.shields.io/gitter/room/dypsilon/frontend-dev-bookmarks.svg?style=flat-square&maxAge=2592000)](https://gitter.im/dypsilon/frontend-dev-bookmarks)
 [![Twitter](https://img.shields.io/badge/follow-twitter-55acee.svg?style=flat-square)](https://twitter.com/FrontendDir)
 
 
@@ -15,15 +15,15 @@ This is the current version, which receives ongoing updates. If you want the goo
 
 ## Appearance
 
-The outward or visible aspect of a website.
+1. The outward or visible aspect of a website.
 
-+ **[Animation](appearance/animation.md)**: The process of creating motion and shape change.
-+ **[Typography](appearance/typography.md)**: The style, arrangement, or appearance of typeset matter.
-+ **[Visualization](appearance/visualization.md)**: Placing data in a visual context.
+2. + **[Animation](appearance/animation.md)**: The process of creating motion and shape change.
+3. + **[Typography](appearance/typography.md)**: The style, arrangement, or appearance of typeset matter.
+4. + **[Visualization](appearance/visualization.md)**: Placing data in a visual context.
 
 ## Architecture
 
-High level structure of the frontend code and the discipline of creating such structures.
+5. High level structure of the frontend code and the discipline of creating such structures.
 
 + **[Algorithms](architecture/algorithms.md)**: A self-contained step-by-step set of operations to be performed. Algorithms perform calculation, data processing, and/or automated reasoning tasks.
 + **[Design Patterns](architecture/design-patterns.md)**: Best practices that the programmer can use to solve common problems when designing an application or system.
@@ -73,7 +73,8 @@ Programming/mark-up languages and web related standards.
 + **[WebAssembly](languages-protocols-browser-apis/webassembly.md)**: WebAssembly is meant to fill a place that JavaScript has been forced to occupy up to now: a low-level code representation that can serve as a compiler target.
 
 ## User Interface Components
-
+1. clone your fork 
+2. Have modifications 
 Drop-in UI components for web sites and applications.
 
 + **[Buttons](user-interface-components/buttons.md)**: The term button refers to any graphical control element that provides the user a simple way to trigger an event, like searching for a query at a search engine, or to interact with dialog boxes, like confirming an action.
